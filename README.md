@@ -36,4 +36,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   <li>Routing</li>
   <li>HttpClient</li>
   <li>HttpClientInMemoryWebApiModule for mocks</li>
+  <li>RxJS basics</li>
 </ul>
+
+![alt text](https://cdn-images-1.medium.com/max/184/1*nbJ41jD1-r2Oe6FsLjKaOg@2x.png) 
+![alt text](http://www.typescriptlang.org/assets/images/examples/conversion.png)
+![alt text](https://rxjs-dev.firebaseapp.com/assets/images/logos/logo.png)
